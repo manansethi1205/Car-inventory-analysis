@@ -51,11 +51,11 @@ Identified using LARGE() with XLOOKUP() pairing
 
 Warranty Coverage Analysis
 
-62% of fleet remains under warranty
+92.31% of fleet remains under warranty
 
 Usage Patterns
 
-Toyota vehicles account for 31% of total miles
+Toyota vehicles account for 26.43% of total miles
 
 Skills Demonstrated
 Data Management
